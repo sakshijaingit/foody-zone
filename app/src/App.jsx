@@ -4,7 +4,9 @@ import { useEffect, useState } from 'react';
 import SearchResult from './components/SearchResult';
 
 
-export const BASE_URL = "http://localhost:9000";
+// export const BASE_URL = "http://localhost:9000";
+
+export const BASE_URL = "https://foody-zone-backend.onrender.com";
 
 const App = () => {
 

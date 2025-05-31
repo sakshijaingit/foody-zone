@@ -6,7 +6,10 @@ import SearchResult from './components/SearchResult';
 
 // export const BASE_URL = "http://localhost:9000";
 
-export const BASE_URL = "https://foody-zone-backend.onrender.com";
+// export const BASE_URL = "https://foody-zone-backend.onrender.com";
+
+export const BASE_URL = "https://foody-zone-server-vktx.onrender.com";
+
 
 const App = () => {
 
